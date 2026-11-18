@@ -1,0 +1,155 @@
+[en-us]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Make images smaller, convert 70+ formats, edit them, make them bigger with AI and remove backgrounds. In 12 languages."
+release_note = "Bundles imgcompress v1.0.0 from official Docker Hub"
+
+[de-de]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Bilder verkleinern, über 70 Formate konvertieren, bearbeiten, mit KI vergrößern und Hintergründe entfernen. In 12 Sprachen."
+release_note = "Enthält imgcompress v1.0.0 vom offiziellen Docker Hub"
+
+[es-es]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Reduce el tamaño de tus imágenes, convierte más de 70 formatos, edítalas, amplíalas con IA y elimina fondos. En 12 idiomas."
+release_note = "Incluye imgcompress v1.0.0 desde Docker Hub oficial"
+
+[fr-fr]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Réduisez la taille de vos images, convertissez plus de 70 formats, modifiez-les, agrandissez-les avec l'IA et supprimez les arrière-plans. En 12 langues."
+release_note = "Intègre imgcompress v1.0.0 depuis le Docker Hub officiel"
+
+[hu-hu]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Képek kicsinyítése, több mint 70 formátum konvertálása, szerkesztése, nagyítása MI-vel és hátterek eltávolítása. 12 nyelven."
+release_note = "Tartalmazza az imgcompress v1.0.0 verzióját a hivatalos Docker Hubról"
+
+[it-it]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Riduci le dimensioni delle immagini, converti oltre 70 formati, modificale, ingrandiscile con l'IA e rimuovi gli sfondi. In 12 lingue."
+release_note = "Include imgcompress v1.0.0 dal Docker Hub ufficiale"
+
+[ja-jp]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "画像の縮小、70種類以上の形式の変換、編集、AIによる高画質拡大、背景削除が可能。12言語に対応。"
+release_note = "公式Docker Hubのimgcompress v1.0.0を同梱"
+
+[ko-kr]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "이미지 용량 줄이기, 70개 이상의 형식 변환, 편집, AI 이미지 확대 및 배경 제거. 12개 언어 지원."
+release_note = "공식 Docker Hub의 imgcompress v1.0.0 번들 포함"
+
+[pl-pl]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Zmniejszaj rozmiar obrazów, konwertuj ponad 70 formatów, edytuj je, powiększaj za pomocą AI i usuwaj tło. W 12 językach."
+release_note = "Zawiera imgcompress v1.0.0 z oficjalnego Docker Hub"
+
+[pt-pt]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Reduza o tamanho das imagens, converta mais de 70 formatos, edite-as, aumente-as com IA e remova fundos. Em 12 idiomas."
+release_note = "Inclui o imgcompress v1.0.0 do Docker Hub oficial"
+
+[ru-ru]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Уменьшайте размер изображений, конвертируйте более 70 форматов, редактируйте, увеличивайте с помощью ИИ и удаляйте фон. На 12 языках."
+release_note = "Включает imgcompress v1.0.0 из официального Docker Hub"
+
+[tr-tr]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Görselleri küçültün, 70'ten fazla formatı dönüştürün, düzenleyin, yapay zeka ile büyütün ve arka planları kaldırın. 12 dilde."
+release_note = "Resmi Docker Hub'dan imgcompress v1.0.0 sürümünü içerir"
+
+[zh-cn]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "缩小图片体积、转换 70 多种格式、编辑图片、使用 AI 放大图片以及移除背景。支持 12 种语言。"
+release_note = "捆绑来自官方 Docker Hub 的 imgcompress v1.0.0"
+
+[zh-hk]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "縮小圖片體積、轉換超過 70 種格式、編輯圖片、透過 AI 放大圖片及移除背景。支援 12 種語言。"
+release_note = "整合來自官方 Docker Hub 的 imgcompress v1.0.0"
+
+[cs-cz]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Zmenšujte obrázky, převádějte více než 70 formátů, upravujte je, zvětšujte pomocí AI a odstraňujte pozadí. Ve 12 jazycích."
+release_note = "Obsahuje imgcompress v1.0.0 z oficiálního Docker Hubu"
+
+[da-dk]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Gør billeder mindre, konverter over 70 formater, rediger dem, forstør dem med AI, og fjern baggrunde. På 12 sprog."
+release_note = "Indeholder imgcompress v1.0.0 fra den officielle Docker Hub"
+
+[nl-nl]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Maak afbeeldingen kleiner, converteer meer dan 70 formaten, bewerk ze, vergroot ze met AI en verwijder achtergronden. In 12 talen."
+release_note = "Bevat imgcompress v1.0.0 van de officiële Docker Hub"
+
+[nb-no]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Gjør bilder mindre, konverter over 70 formater, rediger dem, forstørr dem med AI og fjern bakgrunner. På 12 språk."
+release_note = "Inkluderer imgcompress v1.0.0 fra den offisielle Docker Hub"
+
+[sv-se]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Gör bilder mindre, konvertera över 70 format, redigera dem, förstora dem med AI och ta bort bakgrunder. På 12 språk."
+release_note = "Inkluderar imgcompress v1.0.0 från officiella Docker Hub"
+
+[el-gr]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Μικρύνετε εικόνες, μετατρέψτε πάνω από 70 μορφές, επεξεργαστείτε τις, μεγεθύνετέ τις με AI και αφαιρέστε φόντα. Σε 12 γλώσσες."
+release_note = "Περιλαμβάνει το imgcompress v1.0.0 από το επίσημο Docker Hub"
+
+[ro-ro]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Micșorează imaginile, convertește peste 70 de formate, editează-le, mărește-le cu AI și elimină fundalurile. În 12 limbi."
+release_note = "Include imgcompress v1.0.0 de pe Docker Hub oficial"
+
+[th-th]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "ย่อขนาดรูปภาพ แปลงไฟล์ได้กว่า 70 รูปแบบ แก้ไขภาพ ขยายภาพด้วย AI และลบพื้นหลัง รองรับ 12 ภาษา"
+release_note = "รวม imgcompress v1.0.0 จาก Docker Hub อย่างเป็นทางการ"
+
+[vi-vn]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Thu nhỏ kích thước ảnh, chuyển đổi hơn 70 định dạng, chỉnh sửa, phóng to bằng AI và xóa nền. Hỗ trợ 12 ngôn ngữ."
+release_note = "Tích hợp sẵn imgcompress v1.0.0 từ Docker Hub chính thức"
+
+[id-id]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "Perkecil ukuran gambar, konversi 70+ format, edit, perbesar dengan AI, dan hapus latar belakang. Dalam 12 bahasa."
+release_note = "Menyertakan imgcompress v1.0.0 dari Docker Hub resmi"
+
+[ar-sa]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "صغّر حجم الصور، وحوّل أكثر من 70 صيغة، وعدّلها، وكبّرها بالذكاء الاصطناعي، وأزل الخلفيات. بـ 12 لغة."
+release_note = "يتضمن imgcompress v1.0.0 من Docker Hub الرسمي"
+
+[he-il]
+name = "ImgCompress"
+auth = "karimz1"
+descript = "הקטן תמונות, המר מעל 70 פורמטים, ערוך אותן, הגדל בעזרת בינה מלאכותית והסר רקעים. ב-12 שפות."
+release_note = "כולל את imgcompress v1.0.0 מ-Docker Hub הרשמי"
